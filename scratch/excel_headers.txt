@@ -1,0 +1,189 @@
+Col 1 (A): Timestamp
+Col 2 (B): Nama lengkap
+Col 3 (C): Nama pasangan (suami/istri)
+Col 4 (D): Usia
+Col 5 (E): Status Anggota
+Col 6 (F): Kode UPA
+Col 7 (G): Status perkawinan
+Col 8 (H): Alamat lengkap
+Col 9 (I): RT
+Col 10 (J): RW
+Col 11 (K): Kelurahan
+Col 12 (L): Kecamatan
+Col 13 (M): Kota/Kabupaten
+Col 14 (N): Pekerjaan Anda
+Col 15 (O): Nama Instansi/Tempat Usaha
+Col 16 (P): Alamat tempat kerja/usaha
+Col 17 (Q): Bidang pekerjaan
+Col 18 (R): Pekerjaan pasangan
+Col 19 (S): Keahlian yang dimiliki
+Col 20 (T): Pendapatan per bulan (pilih range)
+Col 21 (U): Pendapatan pasangan per bulan (pilih range)
+Col 22 (V): Pendidikan terakhir
+Col 23 (W): Sudah memiliki anak
+Col 24 (X): Nama Lengkap Anak 1
+Col 25 (Y): Jenis Kelamin Anak 1
+Col 26 (Z): Tanggal Lahir  Anak 1
+Col 27 (AA): Status Pernikahan  Anak 1
+Col 28 (AB): Pendidikan anak 1 saat ini
+Col 29 (AC): Mentoring Anak 1
+Col 30 (AD): Input data anak ke-2 
+Col 31 (AE): Nama Lengkap Anak 2
+Col 32 (AF): Jenis Kelamin  Anak 2
+Col 33 (AG): Tanggal Lahir  Anak 2
+Col 34 (AH): Status Pernikahan  Anak 2
+Col 35 (AI): Pendidikan anak 2 saat ini
+Col 36 (AJ): Mentoring Anak 2
+Col 37 (AK): Input data anak ke-3
+Col 38 (AL): Nama Lengkap Anak 3
+Col 39 (AM): Jenis Kelamin  Anak 3
+Col 40 (AN): Tanggal Lahir  Anak 3
+Col 41 (AO): Status Pernikahan  Anak 3
+Col 42 (AP): Pendidikan anak 3 saat ini
+Col 43 (AQ): Mentoring Anak 3
+Col 44 (AR): Input data anak ke-4
+Col 45 (AS): Nama Lengkap Anak 4
+Col 46 (AT): Jenis Kelamin  Anak 4
+Col 47 (AU): Tanggal Lahir  Anak 4
+Col 48 (AV): Status Pernikahan  Anak 4
+Col 49 (AW): Pendidikan anak 4 saat ini
+Col 50 (AX): Mentoring Anak 4
+Col 51 (AY): Input data anak ke-5
+Col 52 (AZ): Nama Lengkap Anak 5
+Col 53 (BA): Jenis Kelamin  Anak 5
+Col 54 (BB): Tanggal Lahir  Anak 5
+Col 55 (BC): Status Pernikahan  Anak 5
+Col 56 (BD): Pendidikan anak 5 saat ini
+Col 57 (BE): Mentoring Anak 5
+Col 58 (BF): Input data anak ke-6
+Col 59 (BG): Nama Lengkap Anak 6
+Col 60 (BH): Jenis Kelamin  Anak 6
+Col 61 (BI): Tanggal Lahir  Anak 6
+Col 62 (BJ): Status Pernikahan  Anak 6
+Col 63 (BK): Pendidikan anak saat ini Anak 6
+Col 64 (BL): Mentoring Anak 6
+Col 65 (BM): Input data anak ke-7
+Col 66 (BN): Nama Lengkap Anak 7
+Col 67 (BO): Jenis Kelamin  Anak 7
+Col 68 (BP): Tanggal Lahir  Anak 7
+Col 69 (BQ): Status Pernikahan  Anak 7
+Col 70 (BR): Pendidikan anak saat ini Anak 7
+Col 71 (BS): Mentoring Anak 7
+Col 72 (BT): Input data anak ke-8
+Col 73 (BU): Nama Lengkap Anak 8
+Col 74 (BV): Jenis Kelamin  Anak 8
+Col 75 (BW): Tanggal Lahir  Anak 8
+Col 76 (BX): Status Pernikahan  Anak 8
+Col 77 (BY): Pendidikan anak saat ini Anak 8
+Col 78 (BZ): Mentoring Anak 8
+Col 79 (CA): Input data anak ke-9
+Col 80 (CB): Nama Lengkap Anak 9
+Col 81 (CC): Jenis Kelamin  Anak 9
+Col 82 (CD): Tanggal Lahir  Anak 9
+Col 83 (CE): Status Pernikahan  Anak 9
+Col 84 (CF): Pendidikan anak saat ini Anak 9
+Col 85 (CG): Mentoring Anak 9
+Col 86 (CH): Input data anak ke-10
+Col 87 (CI): Nama Lengkap Anak 10
+Col 88 (CJ): Jenis Kelamin
+Col 89 (CK): Tanggal Lahir
+Col 90 (CL): Status Pernikahan
+Col 91 (CM): Pendidikan anak saat ini
+Col 92 (CN): Mentoring
+Col 93 (CO): Apakah saat ini Anda aktif dalam organisasi masyarakat atau keagamaan
+Col 94 (CP): Nama organisasi (format : Organisasi 1 : ketua, organisasi 2 : anggota, dst)
+Col 95 (CQ): Nama organisasi  (format : Organisasi 1 : ketua, organisasi 2 : anggota, dst)
+Col 96 (CR): Apakah Anda sudah terdaftar sebagai pemilih tetap
+Col 97 (CS): Seberapa sering Anda mengikuti berita politik
+Col 98 (CT): Apa sumber utama informasi politik Anda
+Col 99 (CU): Apa program utama yang menurut Anda harus dilakukan oleh struktur (pilih 3 program)
+Col 100 (CV): Harapan Anda kepada struktur
+Col 101 (CW): Apakah Anda bersedia menyukseskan program struktur
+Col 102 (CX): Dalam hal apa Anda ingin berkontribusi
+Col 103 (CY): Apakah Anda memiliki jaringan atau komunitas yang bisa diajak untuk mendukung program struktur
+Col 104 (CZ): Sebutkan Jaringan atau komunitas (tuliskan sebanyak-banyaknya pisahkan dengan koma)
+Col 105 (DA): Apakah Anda bersedia memberikan donasi untuk mendukung program struktur ini
+Col 106 (DB): Selain Iuran rutin, jika bersedia, dalam bentuk apa Anda ingin berdonasi lainnya
+Col 107 (DC): Apakah anda selalu membayar kewajiban iuran rutin yang ditetapkan struktur
+Col 108 (DD): Metode pembayaran apa yang Anda preferensikan untuk berdonasi
+Col 109 (DE): Apakah Anda ingin donasi Anda bersifat anonim
+Col 110 (DF): Nama Sekolah/Universitas  Anak 1
+Col 111 (DG): Jurusan  Anak 1
+Col 112 (DH): Bila  Anak 1  sudah tidak sekolah/kuliah, apakah sudah bekerja ?
+Col 113 (DI): Judul Skripsi ( bila sedang mengerjakan skripsi)  Anak 1
+Col 114 (DJ): Nama Sekolah/Universitas  Anak 2
+Col 115 (DK): Judul Skripsi ( bila sedang mengerjakan skripsi)  Anak 2
+Col 116 (DL): Jurusan  Anak 2
+Col 117 (DM): Nama Sekolah/Universitas  Anak 3
+Col 118 (DN): Jurusan  Anak 3
+Col 119 (DO): Judul Skripsi ( bila sedang mengerjakan skripsi)  Anak 3
+Col 120 (DP): Nama sekolah/Universitas  Anak 4
+Col 121 (DQ): Judul skripsi (bila sedang mengerjakan skripsi)  Anak 4
+Col 122 (DR): Jurusan  Anak 4
+Col 123 (DS): Nama sekolah/Universitas  Anak 5
+Col 124 (DT): Jurusan  Anak 5
+Col 125 (DU): Judul Skripsi (bila sedang mengerjakan skripsi)  Anak 5
+Col 126 (DV): Nama sekolah/Universitas  Anak 6
+Col 127 (DW): Jurusan  Anak 6
+Col 128 (DX): Judul skripsi bila sedang mengerjakan skripsi)  Anak 6
+Col 129 (DY): Nama sekolah/Universitas  Anak 7
+Col 130 (DZ): Jurusan  Anak 7
+Col 131 (EA): Judul skripsi/Universitas  Anak 7
+Col 132 (EB): Nama sekolah/Universitas  Anak 8
+Col 133 (EC): Jurusan  Anak 8
+Col 134 (ED): Judul skripsi (bila sedang mengerjakan skripsi)  Anak 8
+Col 135 (EE): Nama sekolah/Universitas  Anak 9
+Col 136 (EF): Jurusan  Anak 9
+Col 137 (EG): Judul skripsi (bila sedang mengerjakan skripsi)  Anak 9
+Col 138 (EH): Nama sekolah/Universitas
+Col 139 (EI): Jurusan
+Col 140 (EJ): Judul skripsi (bila sedang mengerjakan skripsi)
+Col 141 (EK): Apa kendala anda dalam membayar iuran rutin 
+Col 142 (EL): Hobi   Anak 1
+Col 143 (EM): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 1
+Col 144 (EN): Sebutkan pekerjaan (bila sudah bekerja)  Anak 1
+Col 145 (EO): Bila  Anak 2   sudah tidak sekolah/kuliah, apakah sudah bekerja ?
+Col 146 (EP): Sebutkan pekerjaan (bila sudah bekerja)  Anak 2
+Col 147 (EQ): Hobi   Anak 2
+Col 148 (ER): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 2
+Col 149 (ES): Bila   Anak 3   sudah tidak sekolah/kuliah, apakah sudah bekerja ? 
+Col 150 (ET): Sebutkan pekerjaan (bila sudah bekerja)  Anak 3
+Col 151 (EU): Hobi   Anak 3
+Col 152 (EV): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 3
+Col 153 (EW): Bila  Anak 4   sudah tidak sekolah/kuliah, apakah sudah bekerja ? 
+Col 154 (EX): Sebutkan pekerjaan (bila sudah bekerja)  Anak 4
+Col 155 (EY): Hobi   Anak 4
+Col 156 (EZ): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 4
+Col 157 (FA): Bila  Anak 5  sudah tidak sekolah/kuliah, apakah sudah bekerja ?
+Col 158 (FB): Sebutkan pekerjaan (bila sudah bekerja)  Anak 5
+Col 159 (FC): Hobi   Anak 5
+Col 160 (FD): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 5
+Col 161 (FE): Bila  Anak 6   sudah tidak sekolah/kuliah, apakah sudah bekerja ?  
+Col 162 (FF): Sebutkan pekerjaan (bila sudah bekerja)  Anak 6
+Col 163 (FG): Hobi   Anak 6
+Col 164 (FH): Keahlian  Anak 6   yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)
+Col 165 (FI): Bila  Anak 7   sudah tidak sekolah/kuliah, apakah sudah bekerja ?
+Col 166 (FJ): Sebutkan pekerjaan (bila sudah bekerja)  Anak 7
+Col 167 (FK): Hobi  Anak 7
+Col 168 (FL): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 7
+Col 169 (FM): Bila  Anak 8   sudah tidak sekolah/kuliah, apakah sudah bekerja ?
+Col 170 (FN): Sebutkan pekerjaan (bila sudah bekerja)  Anak 8
+Col 171 (FO): Hobi   Anak 8
+Col 172 (FP): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 8
+Col 173 (FQ): Bila  Anak 9   sudah tidak sekolah/kuliah, apakah sudah bekerja ? 
+Col 174 (FR): Sebutkan pekerjaan (bila sudah bekerja)  Anak 9
+Col 175 (FS): Hobi   Anak 9
+Col 176 (FT): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)  Anak 9
+Col 177 (FU): Bila sudah tidak sekolah/kuliah, apakah sudah bekerja ?
+Col 178 (FV): Sebutkan pekerjaan (bila sudah bekerja)
+Col 179 (FW): Hobi 
+Col 180 (FX): Keahlian yang dimiliki ? (pisahkan dengan koma bila lebih dari satu)
+Col 181 (FY): Column 168
+Col 182 (FZ): Bila sudah tidak sekolah/kuliah, apakah sudah bekerja ? [Baris 2]
+Col 183 (GA): Column 109
+Col 184 (GB): 
+Col 185 (GC): 
+Col 186 (GD): 
+Col 187 (GE): 
+Col 188 (GF): 
+Col 189 (GG): 

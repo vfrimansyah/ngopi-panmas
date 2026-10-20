@@ -1,0 +1,126 @@
+:root {
+    --primary-dark-coffee: #2C1A0E;
+    --primary-coffee: #6F4E37;
+    --dark-coffee: #3e2723;
+    --cream: #F5E6D3;
+    --gold: #C8A97E;
+    --warm-white: #FFF8F0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    overflow-x: hidden;
+    font-size: 0.85rem;
+}
+
+/* Form controls & buttons adjustments */
+.form-control, .form-select, .btn {
+    font-size: 0.85rem;
+}
+
+/* Adjust headings to fit smaller screen hierarchy */
+h1, .h1 { font-size: 1.8rem; }
+h2, .h2 { font-size: 1.5rem; }
+h3, .h3 { font-size: 1.25rem; }
+h4, .h4 { font-size: 1.1rem; }
+h5, .h5 { font-size: 0.95rem; }
+h6, .h6 { font-size: 0.85rem; }
+
+/* Sidebar Wrapper */
+#sidebar-wrapper {
+    min-height: 100vh;
+    width: 250px;
+    margin-left: -250px;
+    transition: margin 0.25s ease-out;
+}
+
+.bg-dark-coffee {
+    background-color: var(--primary-dark-coffee) !important;
+}
+
+.text-cream {
+    color: var(--cream) !important;
+}
+
+.text-gold {
+    color: var(--gold) !important;
+}
+
+#sidebar-wrapper .sidebar-heading {
+    padding: 0.875rem 1.25rem;
+    font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+    width: 250px;
+}
+
+#sidebar-wrapper .list-group-item {
+    transition: all 0.2s ease;
+}
+
+#sidebar-wrapper .list-group-item:hover {
+    background-color: rgba(200, 169, 126, 0.1) !important;
+    color: var(--gold) !important;
+}
+
+#sidebar-wrapper [data-bs-toggle="collapse"] .fa-chevron-down {
+    transition: transform 0.25s ease;
+}
+
+#sidebar-wrapper [data-bs-toggle="collapse"][aria-expanded="true"] .fa-chevron-down {
+    transform: rotate(180deg);
+}
+
+#sidebar-wrapper .list-group-item.active {
+    background-color: rgba(200, 169, 126, 0.2) !important;
+    color: var(--gold) !important;
+    border-left: 4px solid var(--gold) !important;
+    font-weight: 600;
+}
+
+/* Toggle Sidenav class */
+body.sb-sidenav-toggled #sidebar-wrapper {
+    margin-left: 0;
+}
+
+@media (min-width: 768px) {
+    #sidebar-wrapper {
+        margin-left: 0;
+    }
+
+    body.sb-sidenav-toggled #sidebar-wrapper {
+        margin-left: -250px;
+    }
+}
+
+.text-dark-coffee {
+    color: var(--primary-dark-coffee);
+}
+
+/* Dashboard Cards */
+.admin-card {
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+.admin-card:hover {
+    transform: translateY(-3px);
+}
+
+.fs-7 {
+    font-size: 0.75rem;
+}
+
+.border-bottom-dashed {
+    border-bottom: 1px dashed #dee2e6;
+}
+
+.table th {
+    font-weight: 600;
+    background-color: #f1f3f5;
+    color: var(--primary-dark-coffee);
+}

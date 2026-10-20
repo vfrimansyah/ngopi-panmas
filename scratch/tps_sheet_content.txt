@@ -1,0 +1,180 @@
+Row 1: 980f7e13-b82d-4882-a501-8bf57607ebb0 |  |  |  | DPRD Kota / Kabupaten | DPRD2 || TPS001:  | TPS002: 
+Row 2:  |  |  | Desa/Kelurahan | Depok | 32.76.01.1006 || TPS001:  | TPS002: 
+Row 3:  |  |  | Kecamatan | Pancoran Mas | 32.76.01 || TPS001:  | TPS002: 
+Row 4:  |  |  | Kabupaten | KOTA DEPOK | 32.76 || TPS001: TPS | TPS002: TPS
+Row 5:  |  |  | Provinsi | JAWA BARAT | 32 || TPS001: 001 | TPS002: 002
+Row 6:  |  |  | Daerah Pemilihan | KOTA DEPOK 1 | 327601 || TPS001:  | TPS002: 
+Row 7:  |  |  |  |  |  || TPS001:  | TPS002: 
+Row 8: I. |  |  | DATA PEMILIH DAN PENGGUNA HAK PILIH |  |  || TPS001:  | TPS002: 
+Row 9:  | A. |  | DATA PEMILIH |  |  || TPS001:  | TPS002: 
+Row 10:  |  |  | Jumlah Pemilih dalam Daftar Pemilih Tetap (DPT)
+ (Terdapat dalam Model A-Kabko Daftar pemilih) |  | L || TPS001: 95 | TPS002: 95
+Row 11:  |  |  |  |  | P || TPS001: 119 | TPS002: 107
+Row 12:  |  |  |  |  | JML (L+P) || TPS001: 214 | TPS002: 202
+Row 13:  | B. |  | PENGGUNA HAK PILIH |  |  || TPS001:  | TPS002: 
+Row 14:  | 1 |  | Jumlah pengguna hak pilih dalam
+Daftar Pemilih Tetap (DPT) |  | L || TPS001: 69 | TPS002: 80
+Row 15:  |  |  |  |  | P || TPS001: 84 | TPS002: 95
+Row 16:  |  |  |  |  | JML (L+P) || TPS001: 153 | TPS002: 175
+Row 17:  | 2 |  | Jumlah pengguna hak pilih dalam
+Daftar Pemilih Tambahan (DPTb) |  | L || TPS001: 0 | TPS002: 0
+Row 18:  |  |  |  |  | P || TPS001: 1 | TPS002: 1
+Row 19:  |  |  |  |  | JML (L+P) || TPS001: 1 | TPS002: 1
+Row 20:  | 3 |  | Jumlah pengguna hak pilih dalam
+Daftar Pemilih Khusus (DPK) |  | L || TPS001: 2 | TPS002: 0
+Row 21:  |  |  |  |  | P || TPS001: 1 | TPS002: 1
+Row 22:  |  |  |  |  | JML (L+P) || TPS001: 3 | TPS002: 1
+Row 23:  | 4 |  | Jumlah pengguna hak pilih
+(B.1 + B.2 + B.3) |  | L || TPS001: 71 | TPS002: 80
+Row 24:  |  |  |  |  | P || TPS001: 86 | TPS002: 97
+Row 25:  |  |  |  |  | JML (L+P) || TPS001: 157 | TPS002: 177
+Row 26: II. |  |  | DATA PENGGUNAAN SURAT SUARA |  |  || TPS001:  | TPS002: 
+Row 27:  | 1 |  | Jumlah surat suara yang diterima,
+termasuk surat suara cadangan 2% dari DPT (2+3+4) |  | JUMLAH || TPS001: 218 | TPS002: 198
+Row 28:  | 2 |  | Jumlah surat suara yang digunakan |  | JUMLAH || TPS001: 157 | TPS002: 177
+Row 29:  | 3 |  | Jumlah surat suara yang dikembalikan oleh pemilih
+karena rusak/keliru coblos |  | JUMLAH || TPS001: 0 | TPS002: 1
+Row 30:  | 4 |  | Jumlah surat suara yang tidak digunakan/tidak terpakai,
+termasuk sisa surat suara cadangan |  | JUMLAH || TPS001: 61 | TPS002: 20
+Row 31: III. |  |  | DATA PEMILIH DISABILITAS |  |  || TPS001:  | TPS002: 
+Row 32:  |  |  | Jumlah seluruh pemilih disabilitas yang menggunakan hak pilih |  | L || TPS001: 0 | TPS002: 2
+Row 33:  |  |  |  |  | P || TPS001: 0 | TPS002: 1
+Row 34:  |  |  |  |  | JML (L+P) || TPS001: 0 | TPS002: 3
+Row 35: IV. |  |  | DATA PEROLEHAN SUARA PARTAI POLITIK DAN SUARA CALON |  |  || TPS001:  | TPS002: 
+Row 36:  |  |  | NOMOR, NAMA PARTAI DAN CALON |  |  || TPS001:  | TPS002: 
+Row 37:  | A.1 | 01 | Partai Kebangkitan Bangsa |  | SUARA SAH || TPS001: 1 | TPS002: 4
+Row 38:  | A.2 | 1 | SULAIMAN |  | SUARA SAH || TPS001: 3 | TPS002: 2
+Row 39:  |  | 2 | AGUNG CANDRA |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 40:  |  | 3 | HANI WARSITA |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 41:  |  | 4 | SAROJIH, S.Sos.I. |  | SUARA SAH || TPS001: 2 | TPS002: 1
+Row 42:  |  | 5 | NASIR, S. T. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 43:  |  | 6 | LENNY INDRA |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 44:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 6 | TPS002: 9
+Row 45:  | A.1 | 02 | Partai Gerakan Indonesia Raya |  | SUARA SAH || TPS001: 4 | TPS002: 9
+Row 46:  | A.2 | 1 | H. EDI MASTURO, S.E. |  | SUARA SAH || TPS001: 3 | TPS002: 4
+Row 47:  |  | 2 | NOVI ANGGRIANI, S.M. |  | SUARA SAH || TPS001: 3 | TPS002: 3
+Row 48:  |  | 3 | ALI IMRAN AMIRULLAH |  | SUARA SAH || TPS001: 3 | TPS002: 0
+Row 49:  |  | 4 | DODY RIYANTO, S.Kom. |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 50:  |  | 5 | FANNY L. LAURENS |  | SUARA SAH || TPS001: 3 | TPS002: 0
+Row 51:  |  | 6 | H. SUTISNA, S.H. |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 52:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 18 | TPS002: 16
+Row 53:  | A.1 | 03 | Partai Demokrasi Indonesia Perjuangan |  | SUARA SAH || TPS001: 1 | TPS002: 10
+Row 54:  | A.2 | 1 | HENDRIK TANGKE ALLO |  | SUARA SAH || TPS001: 16 | TPS002: 12
+Row 55:  |  | 2 | LUSIANA ATIKA |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 56:  |  | 3 | ARIFIN SIDAURUK |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 57:  |  | 4 | LINDA DAMAIRIA NAPITUPULU |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 58:  |  | 5 | ACHMAD NISRAN SIREGAR, S.E. |  | SUARA SAH || TPS001: 2 | TPS002: 0
+Row 59:  |  | 6 | WINIE AYU LESTARI |  | SUARA SAH || TPS001: 1 | TPS002: 2
+Row 60:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 21 | TPS002: 24
+Row 61:  | A.1 | 04 | Partai Golongan Karya |  | SUARA SAH || TPS001: 1 | TPS002: 2
+Row 62:  | A.2 | 1 | SUPRIATNI, S.Ag., M.M. |  | SUARA SAH || TPS001: 3 | TPS002: 0
+Row 63:  |  | 2 | KARMAN HERMANTO |  | SUARA SAH || TPS001: 1 | TPS002: 2
+Row 64:  |  | 3 | JAYADI |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 65:  |  | 4 | ADHITYA RAAJ.S |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 66:  |  | 5 | MEYSITA ARUM NUGROHO, S.H., M.Kn. |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 67:  |  | 6 | WIRANANDA GOEMILANG, S.H. |  | SUARA SAH || TPS001: 1 | TPS002: 3
+Row 68:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 7 | TPS002: 9
+Row 69:  | A.1 | 05 | Partai Nasional Demokrat |  | SUARA SAH || TPS001: 1 | TPS002: 2
+Row 70:  | A.2 | 1 | EKA HENDRAYANA, S.T. |  | SUARA SAH || TPS001: 0 | TPS002: 2
+Row 71:  |  | 2 | MANGARANAP M SINAGA, S.E., M.H. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 72:  |  | 3 | DIANA LOEN |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 73:  |  | 4 | NURYANAWATI, S.E. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 74:  |  | 5 | DIDDY KURNIAWAN |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 75:  |  | 6 | ARIF BUDIMAN, S.H. |  | SUARA SAH || TPS001: 4 | TPS002: 1
+Row 76:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 5 | TPS002: 5
+Row 77:  | A.1 | 06 | Partai Buruh |  | SUARA SAH || TPS001: 0 | TPS002: 3
+Row 78:  | A.2 | 1 | TORBEN RANDO OROH |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 79:  |  | 2 | SRI SUSILOWATI, S.Kom. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 80:  |  | 3 | NURTANTO, S.Pd. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 81:  |  | 4 | MOHAMAD NUH, S.E., M.M. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 82:  |  | 5 | RATIH HERWAHYUNINGTYAS, S.Pd. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 83:  |  | 6 | SRI HANDAYANI |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 84:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 0 | TPS002: 3
+Row 85:  | A.1 | 07 | Partai Gelombang Rakyat Indonesia |  | SUARA SAH || TPS001: 1 | TPS002: 2
+Row 86:  | A.2 | 1 | DENNY RIADY ALAM PRIBADI |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 87:  |  | 2 | ANTONI SUBAGIO, S.Sos. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 88:  |  | 3 | INA SALEHA |  | SUARA SAH || TPS001: 1 | TPS002: 1
+Row 89:  |  | 4 | IKSAN PITOYO |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 90:  |  | 5 | Dr. BRAMASTYO B. PRASTOWO, M.E. |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 91:  |  | 6 | RADEN DESIANTI NUR'AINI |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 92:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 2 | TPS002: 4
+Row 93:  | A.1 | 08 | Partai Keadilan Sejahtera |  | SUARA SAH || TPS001: 5 | TPS002: 23
+Row 94:  | A.2 | 1 | H. MOH. HAFID NASIR, Dipl.Inf. |  | SUARA SAH || TPS001: 18 | TPS002: 16
+Row 95:  |  | 2 | H. IMAM MUSANTO, S.Pd., M.M. |  | SUARA SAH || TPS001: 11 | TPS002: 8
+Row 96:  |  | 3 | DIAN NURFARIDA, S.Sos. |  | SUARA SAH || TPS001: 4 | TPS002: 3
+Row 97:  |  | 4 | AL KHANSA MUJAHIDAH, S.M. |  | SUARA SAH || TPS001: 4 | TPS002: 2
+Row 98:  |  | 5 | SYAIFUL HIDAYAT, S.Pd., M.Si. |  | SUARA SAH || TPS001: 0 | TPS002: 2
+Row 99:  |  | 6 | KHAIRUL WAJDI, A.Md. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 100:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 42 | TPS002: 54
+Row 101:  | A.1 | 09 | Partai Kebangkitan Nusantara |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 102:  | A.2 | 1 | MARTHA ROSDIANA |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 103:  |  | 2 | MARSONO |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 104:  |  | 3 | JUNARSYAH |  | SUARA SAH || TPS001: 1 | TPS002: 1
+Row 105:  |  | 4 | CHRISTIEN ANGGRAENI, S.E. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 106:  |  | 5 | YULIANI. S |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 107:  |  | 6 | SUHENI, S.E. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 108:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 1 | TPS002: 1
+Row 109:  | A.1 | 10 | Partai Hati Nurani Rakyat |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 110:  | A.2 | 1 | LUSYE JACOBUS, S.E |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 111:  |  | 2 | WARLIAH |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 112:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 113:  | A.1 | 11 | Partai Garda Perubahan Indonesia |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 114:  | A.2 |  | --tidak ada caleg-- |  | SUARA SAH || TPS001:  | TPS002: 
+Row 115:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 116:  | A.1 | 12 | Partai Amanat Nasional |  | SUARA SAH || TPS001: 2 | TPS002: 2
+Row 117:  | A.2 | 1 | IWAN ADRIANSYAH, S.E. |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 118:  |  | 2 | FITRI HARIONO, S.I.P. |  | SUARA SAH || TPS001: 5 | TPS002: 5
+Row 119:  |  | 3 | PRIMANTI DANIARSIH |  | SUARA SAH || TPS001: 0 | TPS002: 2
+Row 120:  |  | 4 | RUBI HERMAWAN, S.T. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 121:  |  | 5 | HERI SETIONO |  | SUARA SAH || TPS001: 5 | TPS002: 3
+Row 122:  |  | 6 | SITI NENENG HASANAH, S.T. |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 123:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 13 | TPS002: 13
+Row 124:  | A.1 | 13 | Partai Bulan Bintang |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 125:  | A.2 | 1 | HENRY GUNAWAN ARIFIANTO, S.H. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 126:  |  | 2 | DIAMOND JERRY HALOHO |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 127:  |  | 3 | DESTU PRADITA |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 128:  |  | 4 | CHARLY MANURUNG |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 129:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 130:  | A.1 | 14 | Partai Demokrat |  | SUARA SAH || TPS001: 0 | TPS002: 3
+Row 131:  | A.2 | 1 | AGA PINANTARA, S.H., M.H. |  | SUARA SAH || TPS001: 3 | TPS002: 1
+Row 132:  |  | 2 | SUKARJITO, S.H. |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 133:  |  | 3 | dr. SITI ISTIQOMAH |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 134:  |  | 4 | SRI MULYANI |  | SUARA SAH || TPS001: 1 | TPS002: 2
+Row 135:  |  | 5 | WAHYUNINGTYAS INDAH WARDHANI, S.Kom., M.Si.M. |  | SUARA SAH || TPS001: 0 | TPS002: 2
+Row 136:  |  | 6 | RADEN DIMAS SUGIHARTO |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 137:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 4 | TPS002: 9
+Row 138:  | A.1 | 15 | Partai Solidaritas Indonesia |  | SUARA SAH || TPS001: 1 | TPS002: 5
+Row 139:  | A.2 | 1 | AULIA  ASKHA, S.Sos. |  | SUARA SAH || TPS001: 4 | TPS002: 1
+Row 140:  |  | 2 | MARTHIN JONATHAN, S.E. |  | SUARA SAH || TPS001: 5 | TPS002: 0
+Row 141:  |  | 3 | JORI ADRIAN NATAMA, S.I.Kom. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 142:  |  | 4 | ELLY CORTINA ISAKH |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 143:  |  | 5 | ANTONIUS WAHYU KAMANDOKO, S.E., M.M. |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 144:  |  | 6 | AMSORI |  | SUARA SAH || TPS001: 1 | TPS002: 1
+Row 145:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 13 | TPS002: 7
+Row 146:  | A.1 | 16 | Partai Persatuan Indonesia |  | SUARA SAH || TPS001: 0 | TPS002: 2
+Row 147:  | A.2 | 1 | RERE TATI SRI HARDINA, S.H. |  | SUARA SAH || TPS001: 8 | TPS002: 8
+Row 148:  |  | 2 | YERRY P SIHOMBING, S.I.P. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 149:  |  | 3 | ARI CAHYAWAN DWI PRASETYO |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 150:  |  | 4 | YURRI FERGRINA |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 151:  |  | 5 | NURSAIDA SINAGA |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 152:  |  | 6 | JOKO WIBOWO |  | SUARA SAH || TPS001: 1 | TPS002: 0
+Row 153:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 9 | TPS002: 11
+Row 154:  | A.1 | 17 | Partai Persatuan Pembangunan |  | SUARA SAH || TPS001: 1 | TPS002: 1
+Row 155:  | A.2 | 1 | MAZHAB HM |  | SUARA SAH || TPS001: 2 | TPS002: 2
+Row 156:  |  | 2 | PUSPITA RATNASARI |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 157:  |  | 3 | SITI NURJANAH |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 158:  |  | 4 | Hj. SRI HANDIARSIH, S.E. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 159:  |  | 5 | TRI KUSUMAWATI,  A. Md. |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 160:  |  | 6 | MURSID |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 161:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 3 | TPS002: 3
+Row 162:  | A.1 | 24 | Partai Ummat |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 163:  | A.2 | 1 | DANIEL SYUCHAYADI, S.H. |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 164:  |  | 2 | SRI PAMUNGKAS KUSUMA WIJAYANTI, S.E. |  | SUARA SAH || TPS001: 0 | TPS002: 1
+Row 165:  |  | 3 | ANDRI SUHATRIL |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 166:  |  | 4 | SULASTRI |  | SUARA SAH || TPS001: 0 | TPS002: 0
+Row 167:  | B |  | JUMLAH SUARA SAH PARTAI POLITIK DAN CALON (A.1 + A.2) |  | SUARA SAH || TPS001: 0 | TPS002: 3
+Row 168: V. |  |  | DATA SUARA SAH DAN TIDAK SAH |  |  || TPS001:  | TPS002: 
+Row 169:  | A. |  | JUMLAH SELURUH SUARA SAH |  | JUMLAH || TPS001: 145 | TPS002: 171
+Row 170:  | B. |  | JUMLAH SUARA TIDAK SAH |  | JUMLAH || TPS001: 12 | TPS002: 6
+Row 171:  | C. |  | JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH (A + B) |  | JUMLAH || TPS001: 157 | TPS002: 177
+Row 172:  |  |  | Keterangan |  |  || TPS001:  | TPS002: 
